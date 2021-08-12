@@ -1,7 +1,7 @@
 # HUDStats Ball Detection Solution
 Solution for ball detection task
 
-##Important
+## Important
 After cloning the repo use this link to download trained model (It is too big and cannot be commited to git)
 
 https://www.dropbox.com/s/b4ebs2c5ao018c3/detector.h5?dl=0
