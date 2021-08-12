@@ -7,7 +7,42 @@ After cloning the repo use this link to download trained model (It is too big an
 https://www.dropbox.com/s/b4ebs2c5ao018c3/detector.h5?dl=0
 
 When downloaded just put it in the repo root dir together with all scripts.
-
+Your ready directory should look like this:
+```bash
+│   dataset_preprocesing.py
+│   detector.h5
+│   evaluation.py
+│   plot.png
+│   predict.py
+│   predictions.csv
+│   README.md
+│   requirements.txt
+│   test_images.txt
+│   train.py
+└───dataset
+    │   annotations.csv
+    └───images
+            12104.png
+            14426.png
+            14535.png
+            19460.png
+            2036.png
+            20673.png
+            22591.png
+            22771.png
+            22818.png
+            24064.png
+            3474.png
+            3846.png
+            4342.png
+            443.png
+            4814.png
+            5195.png
+            5464.png
+            6729.png
+            686.png
+            7885.png
+```
 ## Random prediction script
 In the folder dataset/images there are 20 random images extracted from the video provided.
 
