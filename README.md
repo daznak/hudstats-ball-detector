@@ -1,6 +1,13 @@
 # HUDStats Ball Detection Solution
 Solution for ball detection task
 
+##Important
+After cloning the repo use this link to download trained model (It is too big and cannot be commited to git)
+
+https://www.dropbox.com/s/b4ebs2c5ao018c3/detector.h5?dl=0
+
+When downloaded just put it in the repo root dir together with all scripts.
+
 ## Random prediction script
 In the folder dataset/images there are 20 random images extracted from the video provided.
 
